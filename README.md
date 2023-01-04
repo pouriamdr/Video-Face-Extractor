@@ -35,4 +35,5 @@ python3 main.py video_test.mp4
 ```
 <br>
 <hr>
+<br>
 You can compaire this project with FSR project(also it's in my repo) to create a fully functional application.
