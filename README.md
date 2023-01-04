@@ -4,7 +4,6 @@ A python script that extract faces in a video or using camera by live streaming.
 <h1>
 Goal
 </h1>
-<hr>
 The goal is to detect human face from video or computer's camera and extract them into faces folder.
 <br>
 Note:Repeated face is not allowed to extract.
@@ -12,7 +11,6 @@ Note:Repeated face is not allowed to extract.
 <h1>
 How to use
 </h1>
-<hr>
 Download whole project and extract it. In root directory of project open terminal and run:
 <br>
 **For extract faces from computers camera**
