@@ -13,6 +13,7 @@ How to use
 </h1>
 Download whole project and extract it. In root directory of project open terminal and run:
 <br>
+<br>
 For extract faces from computers camera
 
 ```shell
