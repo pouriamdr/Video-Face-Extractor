@@ -13,7 +13,7 @@ How to use
 </h1>
 Download whole project and extract it. In root directory of project open terminal and run:
 <br>
-**For extract faces from computers camera**
+For extract faces from computers camera
 
 ```shell
 
@@ -24,7 +24,7 @@ python3 main.py camera0
 ```
 
 <br>
-**For extrac faces from a video file**
+For extrac faces from a video file
 
 ```shell
 
@@ -35,5 +35,3 @@ python3 main.py video_test.mp4
 <br>
 <hr>
 You can compaire this project with FSR project(also it's in my repo) to create a fully functional application.
-<br>
-**GOODLUCK**
